@@ -13,7 +13,6 @@ numberline
 ==========
 
 /*This module is for Interactive Numberline mechanism
- *Developed by Lapiz
  *
  * V 1.3
  * 09.10.14
